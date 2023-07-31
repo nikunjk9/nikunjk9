@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div align="center"> <img src="https://raw.githubusercontent.com/nikunjk9/nikunjk9/main/MakeyourREADME.PNG"> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/nikunjk9/nikunjk9/main/MakeyourREADME.png"> </div>
 <!--
 **nikunjk9/nikunjk9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
