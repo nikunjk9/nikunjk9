@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img width="1917" alt="Make your README" src="https://github.com/nikunjk9/nikunjk9/assets/readme.png">
+<img width="1917" alt="readme" src="https://github.com/nikunjk9/nikunjk9/assets/140910919/ae2da87a-ce17-437a-b175-c1e9a17e423e">
 <!--
 **nikunjk9/nikunjk9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
+
