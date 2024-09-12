@@ -21,7 +21,7 @@
  Instagram:    <a href="https://www.instagram.com/heyy.nikunj.here/">
   <img align="center" alt="Instagram" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
 
-Twitter: <a href="https://twitter.com/kapilx09">
+Twitter: <a href="https://twitter.com/">
   <img align="center" alt="Twitter" width="25px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
  
 Linkdein <a href="https://www.linkedin.com/in/nikunj-kumar-184130208/">
