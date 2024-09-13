@@ -4,14 +4,19 @@
 <br/>
 
 # 👦🏻 About Me:
-Computer Science engineering student with a passion for code and a hunger for innovation. Aspiring programmer on a mission to conquer new tech and programming languages. Let's build the future together! 🚀💻 
+<div align="left">
+
+ <h3> A Computer Science student with a passion for code and a hunger for innovation. Aspiring programmer on a mission to conquer new tech and programming languages. Let's build the future together! 🚀💻 </h3>
+</div> 
+
+<br/>
 
 🔭 I’m currently working on `Full-stack development` projects. <br>👯 I’m looking to collaborate on Open-source projects in `Flutter/Dart`. <br>🌱 I’m currently learning `Advanced IoT integrations`, `big data analytics`, and `cloud-based security` solutions. <br>💬 Ask me about `Flutter` development, `Unity 3D` game mechanics, and `network security` design.<br>⚡ Fun fact: `TYPEWRITER` is the longest word that you can write using the letters only on one row of the keyboard of your computer.
 
 
 
+<br/>
 
-// Your content
 
 
 # 💻 Tech Stack:
@@ -30,17 +35,14 @@ Computer Science engineering student with a passion for code and a hunger for in
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark=0x250)
+
 <br/>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100070085461558) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/heyy.nikunj.here) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikunj-kumar-184130208/) 
 
 <br/>
-
-<br/>
-
-<div align="center">
-
- <h3>Thanks for visiting my profile, see you next time 😗</h3>
-</div>    
   
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<p align="center">
