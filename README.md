@@ -33,15 +33,17 @@
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100070085461558) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/heyy.nikunj.here) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikunj-kumar-184130208/) 
+
 <br/>
 
 <div align="center">
 
   <h3><b>Thanks for visiting my profile, See you next time! 🥰 </b></h3>
-  You can show love 💗 to my [repositories](https://github.com/nikunjk9?tab=repositories)!
-  
-
-  
-
+ 
 </div>
 
+<div align="center">
+  
+### You can show love 💗 to my [Repositories](https://github.com/nikunjk9?tab=repositories) 💌
+
+</div>
