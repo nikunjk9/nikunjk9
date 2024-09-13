@@ -3,7 +3,7 @@
 <br/>
 <br/>
 
-## 👦🏻 About Me:
+# 👦🏻 About Me:
 
   A Computer Science student with a passion for code and a hunger for innovation. Aspiring programmer on a mission to conquer new tech and programming languages. Let's build the future together! 🚀💻 
 </div> 
