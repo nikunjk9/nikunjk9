@@ -1,22 +1,27 @@
 <img width="1917" alt="Make your README" src="https://github.com/nikunjk9/nikunjk9/assets/140910919/8fa53d5b-b9bf-4fa9-adc8-b51f21fd1b55">
 
-<br/>
-<br/>
+<div align="center"> 
 
 ## 👦🏻 About Me:
 
+
   A Computer Science student with a passion for code and a hunger for innovation. Aspiring programmer on a mission to conquer new tech and programming languages. Let's build the future together! 🚀💻
-</div> 
-
-<br/>
-
-🔭 I’m currently working on `Full-stack development` projects. <br>👯 I’m looking to collaborate on Open-source projects in `Java`. <br>🌱 I’m currently learning `Java Development`, `Generative AI`, and `Machine learning`. <br>💬 Ask me about `Flutter` development, `Unity 3D` game mechanics, and `network security` design.<br>⚡ Fun fact: `TYPEWRITER` is the longest word that you can write using the letters only on one row of the keyboard of your computer.
-
 
 
 <br/>
 
-<div align="center" > 
+  🔭 I’m currently working on `Full-stack development` projects. <br>
+  👯 I’m looking to collaborate on Open-source projects in `Java`. <br>
+  🌱 I’m currently learning `Java Development`, `Generative AI`, and `Machine learning`. <br>
+  💬 Ask me about `Python` development, `Unity 3D` game mechanics, and `network security` design.<br>
+  ⚡ Fun fact: `TYPEWRITER` is the longest word that you can write using the letters only on one row of <br>
+  the keyboard of your computer.
+ 
+
+
+<br/>
+
+<div align="center"> 
 
 ## 💻 Tech Stack:
   
@@ -24,7 +29,8 @@
 
 </div>
 <br/>
-<div align="center" > 
+
+<div align="center"> 
   
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nikunjk9&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -34,18 +40,14 @@
 </div>
 <br/>
 
+<div align="center"> 
+  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikunj-kumar-184130208/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/heyy.nikunj.here) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100070085461558) 
 
-
-
-
-<div align="center">
-
-  <h3><b>Thanks for visiting my profile, See you next time! 🥰 </b></h3>
- 
 </div>
+
 
 <div align="center">
   
