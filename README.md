@@ -10,7 +10,7 @@
 
 <br/>
 
-🔭 I’m currently working on `Full-stack development` projects. <br>👯 I’m looking to collaborate on Open-source projects in `Flutter/Dart`. <br>🌱 I’m currently learning `Advanced IoT integrations`, `big data analytics`, and `cloud-based security` solutions. <br>💬 Ask me about `Flutter` development, `Unity 3D` game mechanics, and `network security` design.<br>⚡ Fun fact: `TYPEWRITER` is the longest word that you can write using the letters only on one row of the keyboard of your computer.
+🔭 I’m currently working on `Full-stack development` projects. <br>👯 I’m looking to collaborate on Open-source projects in `Java`. <br>🌱 I’m currently learning `Java Development`, `Generative AI`, and `Machine learning`. <br>💬 Ask me about `Flutter` development, `Unity 3D` game mechanics, and `network security` design.<br>⚡ Fun fact: `TYPEWRITER` is the longest word that you can write using the letters only on one row of the keyboard of your computer.
 
 
 
