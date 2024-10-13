@@ -53,3 +53,10 @@
 #### You can show love 💗 to my [Repositories](https://github.com/nikunjk9?tab=repositories) 💌
 
 <d>
+
+<div align="center" >
+
+[![](https://visitcount.itsvg.in/api?id=nikunjk9&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
+
+<d>
