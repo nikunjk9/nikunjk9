@@ -11,7 +11,7 @@
 <br/>
 
   🔭 I’m currently working on [PowerPay](https://github.com/nikunjk9/PowerPay). <br>
-  👯 I’m looking to collaborate on Open-source projects in `Java development`. <br>
+  👯 I’m looking to collaborate on Open-source projects in `Full-Stack development`. <br>
   🌱 I’m currently learning `Java Development`, `Generative AI`, and `Machine learning`. <br>
   💬 Ask me about `Python development`, `Front-End development` game mechanics, and `Game development`.<br>
   ⚡ Fun fact: `TYPEWRITER` is the longest word that you can write using the letters only on one row of the keyboard of your computer.
